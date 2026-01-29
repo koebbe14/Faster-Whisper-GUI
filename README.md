@@ -1,6 +1,6 @@
 # Faster Whisper GUI
 
-A comprehensive, user-friendly graphical interface for audio and video transcription with advanced speaker diarization capabilities. Built on top of `faster-whisper-xxl.exe`, this application makes high-quality transcription, translation, and diarization easy and accessable.  Faster-whisper-xxl is a modified version of OpenAi Whisper (see Credits and Acknowledgments below)
+A comprehensive, user-friendly graphical interface for audio and video transcription with advanced speaker diarization capabilities. Built on top of `faster-whisper-xxl.exe`, this application makes high-quality transcription, translation, and diarization easy and accessable.  Faster-whisper-xxl was developed by Purfview (GitHub) and is a modified version of OpenAi Whisper (see Credits and Acknowledgments below)
 
 ## 🎯 Overview
 
