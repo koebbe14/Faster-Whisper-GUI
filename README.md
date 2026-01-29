@@ -10,6 +10,8 @@ Faster Whisper GUI provides an intuitive interface for transcribing audio and vi
 
 Upon inital launch of the .exe file, a zip file will be automatically extracted to the necessary location.  The .exe does NOT include any predownloaded Models.  Therefore, an internet connection is required the first time a model is used so it can be automatically downloaded.  Once a model is downloaded, no network connection is needed and the program is Standalone.
 
+# A link to download the .exe can be found on the "Releases" page
+
 ### Key Highlights
 
 - **Zero Configuration Required**: Download and run - all dependencies included
