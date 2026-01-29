@@ -6,6 +6,10 @@ A comprehensive, user-friendly graphical interface for audio and video transcrip
 
 Faster Whisper GUI provides an intuitive interface for transcribing audio and video files with state-of-the-art accuracy. Whether you need to transcribe a single interview or process hundreds of files in batch, this application offers the tools and flexibility to get the job done efficiently.
 
+## Initial Use and Model Downloads
+
+Upon inital launch of the .exe file, a zip file will be automatically extracted to the necessary location.  The .exe does NOT include any predownloaded Models.  Therefore, an internet connection is required the first time a model is used so it can be automatically downloaded.  Once a model is downloaded, no network connection is needed and the program is Standalone.
+
 ### Key Highlights
 
 - **Zero Configuration Required**: Download and run - all dependencies included
